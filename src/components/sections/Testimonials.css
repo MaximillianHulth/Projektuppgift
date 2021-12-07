@@ -1,0 +1,18 @@
+.testimonials-section { 
+  border: 2px solid #ccc;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: start;
+  
+}
+.testimonials-section1 ul {
+    margin-left: 15px;
+    
+}
+.testimonials-section2 {
+   
+}
